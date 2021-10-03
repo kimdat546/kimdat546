@@ -18,9 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdat546&repo=HrAndPayrollManagementApp&theme=vision-friendly-dark)](https://github.com/kimdat546/HrAndPayrollManagementApp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdat546&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdat546&theme=vision-friendly-dark)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
