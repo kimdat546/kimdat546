@@ -14,6 +14,14 @@
 
 - 📫 How to reach me **kimdat546@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdat546&show_icons=true&count_private=true&theme=vision-friendly-dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kimdat546&repo=HrAndPayrollManagementApp&theme=vision-friendly-dark)](https://github.com/kimdat546/HrAndPayrollManagementApp)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdat546&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kimdat546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kimdat546" height="30" width="40" /></a>
